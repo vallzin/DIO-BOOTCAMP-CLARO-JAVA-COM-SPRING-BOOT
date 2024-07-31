@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DIO-BOOTCAMP-CLARO-JAVA-COM-SPRING-BOOT.iml" filepath="$PROJECT_DIR$/.idea/DIO-BOOTCAMP-CLARO-JAVA-COM-SPRING-BOOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIO-trilha-java-basico-controle-fluxo-main/DIO-trilha-java-basico-controle-fluxo-main.iml" filepath="$PROJECT_DIR$/DIO-trilha-java-basico-controle-fluxo-main/DIO-trilha-java-basico-controle-fluxo-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VisibilidadeRecursos/VisibilidadeRecursos.iml" filepath="$PROJECT_DIR$/VisibilidadeRecursos/VisibilidadeRecursos.iml" />
+    </modules>
+  </component>
+</project>
